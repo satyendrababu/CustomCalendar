@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#034ea2</color>
+    <color name="grey_background">#f3f6fa</color>
+    <color name="color_btn_disable">#e6e7e8</color>
+    <color name="color_txt_title">#231f20</color>
+    <color name="color_txt">#66676b</color>
+    <color name="color_txt_background">#eaffeb</color>
+    <color name="app_bar_blue">#034ea2</color>
+    <color name="text_grey">#231f20</color>
+    <color name="grey">#707070</color>
+    <color name="light_red">#fcd2d8</color>
+    <color name="light_green">#cffcd4</color>
+    <color name="item_select_menu">#e1f5ff</color>
+    <color name="red">#f51637</color>
+    <color name="red3">#e32a34</color>
+    <color name="green1">#2ea734</color>
+    <color name="green">#156319</color>
+    <color name="background">#f3f6fa</color>
+    <color name="light_blue">#e1f5ff</color>
+    <color name="dull_yellow">#ffe8c6</color>
+    <color name="green2">#51cd88</color>
+    <color name="red2">#f15c4a</color>
+    <color name="yellow2">#eeae4b</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="orange">#ff6600</color>
+    <color name="light_orange">#ffb380</color>
+    <color name="light_blue1">#C7EBFB</color>
+    <color name="dark_pink">#EC697B</color>
+    <color name="dark_purple">#8714A9</color>
+</resources>
